@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*{height: auto;}
+
+
+body{background-color: rgb(70, 197, 70);}
+
+h1{color:darkgreen;}
+
+h1#principal{text-align: center;}
+
+h2{color:darkblue;}
+
+.basico{color:lawngreen;
+
+}
+
+.intermediario{color: darkmagenta;
+
+}
+
+.avancado{color: darkred;
+
+
+}
+
+p{text-align: justify;}
